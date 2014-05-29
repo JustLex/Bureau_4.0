@@ -1,0 +1,9 @@
+body {
+	width: 800px;
+	text-align: center;
+}
+
+.login {
+	width: 400px;
+	background-color: #DDD;	
+}
